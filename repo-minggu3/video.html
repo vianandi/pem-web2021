@@ -1,0 +1,127 @@
+<html>
+<head>
+    <title>Katalog Produk</title>
+    <link rel="icon" href="kang pristel.png">
+    <link rel="stylesheet" href="style4video.css">
+</head>
+<body>
+    <header>
+        <div class="intro">
+            <h1>Vian Andi</h1>
+            Berikut beberapa video dan audio yang bisa anda putar
+        </div>
+        <nav>
+            <ul>
+                <li><a href="form.html">BERANDA</a></li>
+                <li><a href="Profil.html">PROFIL</a></li>
+                <li><a href="#">VIDEO</a></li>
+            </ul>
+        </nav>  
+    </header>
+    <form>
+        <div class='video'>        
+            <div class='vid'>
+                <video controls>
+                    <source src="CARA MERAKIT PC SECARA VIRTUAL.mp4" type="video/mp4"/>
+                </video>
+                <h2>CARA MERAKIT PC SECARA VIRTUAL</h2>
+                <p align="justify"><span class="baca_selengkapnya">Baca Selengkapnya...</span></p>
+                <div class="pesan">
+                    <p align="justify">Video diatas adalah tugas kuliah saya sewaktu Semester 1. Disitu saya menjelaskan tentang penggunaan CISCO IT ESSENTIALS VIRTUAL DESKTOP, aplikasi itu digunakan untuk merakit komputer sederhana secara virtual.</p>
+                </div>
+            </div>
+            
+            <div class='vid'>
+                <video controls>
+                    <source src="UAS Alpro.mp4" type="video/mp4">
+                </video>
+                <h2>PEMANTAU KEPADATAN PENDUDUK</h2>
+                <p align="justify"><span class="baca_selengkapnya2">Baca Selengkapnya...</span></p>
+                <div class="pesan2">
+                    <p align="justify">Video diatas adalah projek yang saya kerjakan pada Ulangan Akhir Semester 2. Dengan menggunakan bahasa pemrograman Python, saya mencoba membuat program sederhana yang berjalan pada terminal untuk mengelompokkan Kepadatan Penduduk berdasarkan nilai yang dimasukkan.</p>
+                </div>
+            </div>
+            
+            <div class='vid'>
+                <video controls>
+                    <source src="sedikit_tentang_udinus.mp4" type="video/mp4">
+                </video>
+                <h2>SEDIKIT TENTANG UDINUS</h2>
+                <p align="justify"><span class="baca_selengkapnya3">Baca Selengkapnya...</span></p>
+                <div class="pesan3">
+                    <p align="justify">Video diatas adalah karya saya beserta kelompok saya untuk berpartisipasi pada UDINUS Content Creator Awards 2021 dan sebagai Tugas Ulangan Tengah Semester 2. Walaupun hasilnya belum maksimal tapi kami cukup puas dengan nilai UTS yang diperoleh.</p>
+                </div>
+            </div>
+
+            <div class='vid'>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/7a87Ta59KHM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <h2>TOGETHER WE ARE ONE - RRQ OFFICIAL ANTHEM (LYRIC VIDEO)</h2>
+            </div>
+
+            <div class='vid'>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/aKtb7Y3qOck" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <h2>WONDERLAND INDONESIA by Alffy Rev (ft. Novia Bachmid)</h2>
+            </div>
+
+            <div class='vid'>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/s5avCJ9MMoA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <h2>SkinnyIndonesian24 - PENSI - Pentas Swara Indonesia</h2>
+            </div>
+
+            <div class="vid">
+                <h3>Aestethic music for relax</h3>
+                <audio controls>
+                    <source src="aestethic.mp3" type="audio/mpeg">
+                </audio>
+            </div>
+
+            <div class="vid">
+                <h3>Faouzia ft John Legend - Minefields</h3>
+                <audio controls>
+                    <source src="Faouzia ft John Legend - Minefields.mp3" type="audio/mpeg">
+                </audio>
+            </div>
+
+            <div class="vid">
+                <h3>One Direction - Story of My Life</h3>
+                <audio controls>
+                    <source src="One Direction - Story of My Life.mp3" type="audio/mpeg">
+                </audio>
+            </div>
+        </div>
+    </form>
+    <script type="text/javascript" src="https://code.jquery.com/jquery-3.3.1.min.js">
+    </script>
+    <script type="text/javascript">
+        $(document).ready(function() {
+            $(".pesan").hide();
+            $(".baca_selengkapnya").click(function(){
+                $(".pesan").slideDown('slow');
+                $(this).hide();
+            })
+        });
+    </script>
+    <script type="text/javascript">
+        $(document).ready(function() {
+            $(".pesan2").hide();
+            $(".baca_selengkapnya2").click(function(){
+                $(".pesan2").slideDown('slow');
+                $(this).hide();
+            })
+        });
+    </script>
+    <script type="text/javascript">
+        $(document).ready(function() {
+            $(".pesan3").hide();
+            $(".baca_selengkapnya3").click(function(){
+                $(".pesan3").slideDown('slow');
+                $(this).hide();
+            })
+        });
+    </script>
+</body>
+<footer>
+    
+    Vian Andi  &#169; 2021
+</footer>
+</html>

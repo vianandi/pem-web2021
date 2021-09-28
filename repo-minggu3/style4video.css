@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+body {
+    font-family: 'Quicksand';
+    font-weight: 700;
+    margin: 0;
+}
+
+.intro {
+    font-size: 20px;
+    font-weight: bold;
+    padding: 120px;
+    text-align: center;
+    color: white;
+    background: url(530401.jpg);
+    background-size: cover;
+}
+
+nav {
+    background-color: black;
+    padding: 5px;
+    position: sticky;
+    top: 0;
+    text-align: center;
+    z-index: 10;
+}
+
+nav a {
+    font-size: 18px;
+    font-weight: 400;
+    text-decoration: none;
+    color: white;
+    float: center;
+}
+
+nav a:hover {
+    font-weight: bold;
+}
+
+nav li {
+    display: inline;
+    list-style-type: none;
+    margin-right: 20px;
+}
+
+nav li a {
+    padding: 20px;
+    color: white;
+    text-decoration: none;
+    display: inline-block;
+    font-weight: bold;
+}
+
+nav li a:hover {
+    background: grey;
+    color: white;
+    border: radius 10px;
+}
+
+.video {
+    width: 90%;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    margin: auto;
+}
+
+.video .vid video {
+    width: 560px;
+}
+
+.vid {
+    border: 1px solid black;
+    margin: 10px;
+    text-align: center;
+}
+
+.vid a {
+    border: 1px solid green;
+    padding: 10px;
+    color: white;
+    background: green;
+    text-decoration: none;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+.baca_selengkapnya {
+    color: blue;
+    cursor: pointer;
+}
+
+.baca_selengkapnya2 {
+    color: blue;
+    cursor: pointer;
+}
+
+.baca_selengkapnya3 {
+    color: blue;
+    cursor: pointer;
+}
+
+audio {
+    position: relative;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    color: white;
+    background-color: black;
+    font-weight: bold;
+}

@@ -1,0 +1,205 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+header {
+    display: inline;
+}
+
+.profile header {
+    text-align: center;
+}
+
+.intro {
+    font-size: 20px;
+    font-weight: bold;
+    padding: 120px;
+    text-align: center;
+    color: white;
+    background: url(530401.jpg);
+    background-size: cover;
+}
+
+nav {
+    background-color: black;
+    padding: 5px;
+    position: sticky;
+    top: 0;
+    text-align: center;
+    z-index: 10;
+}
+
+nav a {
+    font-size: 18px;
+    font-weight: 400;
+    text-decoration: none;
+    color: white;
+    float: center;
+}
+
+nav a:hover {
+    font-weight: bold;
+}
+
+nav li {
+    display: inline;
+    list-style-type: none;
+    margin-right: 20px;
+}
+
+nav li a {
+    padding: 20px;
+    color: white;
+    text-decoration: none;
+    display: inline-block;
+    font-weight: bold;
+}
+
+nav li a:hover {
+    background: grey;
+    color: white;
+    border: radius 10px;
+}
+
+body {
+    font-family: 'Quicksand';
+    margin: 0;
+    padding: 0;
+    background-image: url('backgorund.jpg');
+}
+
+main {
+    padding: 20px;
+    overflow: auto;
+}
+
+p {
+    color: black;
+    text-align: justify;
+    text-decoration: none;
+}
+
+h2 {
+    color: black;
+    font-size: large;
+}
+
+h3 {
+    color: black;
+    font-size: large;
+}
+
+h4 {
+    color: black;
+    font-size: large;
+}
+
+h5 {
+    color: black;
+    font-size: large;
+}
+
+h6 {
+    color: black;
+    font-size: large;
+}
+
+.featured-image {
+    width: 100%;
+    max-height: 300px;
+    object-fit: cover;
+    object-position: center;
+}
+
+.kelas img {
+    width: 200px;
+}
+
+.card {
+    background: url(asus\ rog.jpg);
+    background-size: cover;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+aside {
+    float: left;
+    width: 25%;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+@media screen and (max-width: 1000px) {
+    #content,
+    aside {
+        width: 100%;
+        padding: 0;
+    }
+}
+
+input[type=text],
+select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+input[type=email],
+select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+input[type=submit] {
+    width: 100%;
+    background-color: black;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+input[type=submit]:hover {
+    background-color: black;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    color: white;
+    background-color: black;
+    font-weight: bold;
+}
+
+.tombol-detail {
+    background-color: red;
+}
+
+.tombol-beli {
+    background-color: green;
+}
+
+
+/*=====================================================biodata*/
+
+table,
+tr,
+td {
+    background-color: rgb(255, 255, 255);
+    font-family: century gothic;
+    color: rgb(0, 0, 0);
+    padding: 5px;
+    border-collapse: collapse;
+}
