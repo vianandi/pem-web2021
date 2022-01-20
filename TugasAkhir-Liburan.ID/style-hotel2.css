@@ -1,0 +1,5005 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-size: 14px;
+}
+
+
+/* ===========================================ICON==============*/
+
+.star {
+    width: 30px;
+    height: 30px;
+}
+
+.hotel {
+    width: 45px;
+    height: 45px;
+}
+
+
+/* ===========================================ICON==============*/
+
+.v196_282 {
+    width: 100%;
+    height: 5216px;
+    background: rgba(255, 255, 255, 1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+}
+
+.v196_283 {
+    width: 244px;
+    height: 50px;
+    background: url("../images/v196_283.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 5132px;
+    left: 598px;
+    overflow: hidden;
+}
+
+.v196_284 {
+    width: 50px;
+    height: 50px;
+    background: rgba(235, 165, 235, 1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 194px;
+    border: 2px solid rgba(235, 165, 235, 0.5);
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    overflow: hidden;
+}
+
+.v196_285 {
+    width: 50px;
+    height: 50px;
+    background: rgba(235, 165, 235, 1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 98px;
+    border: 2px solid rgba(235, 165, 235, 0.5);
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    overflow: hidden;
+}
+
+.v196_286 {
+    width: 50px;
+    height: 50px;
+    background: rgba(255, 255, 255, 1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border: 3px solid rgba(235, 165, 235, 0.699999988079071);
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    overflow: hidden;
+}
+
+.v196_287 {
+    width: 24px;
+    color: rgba(0, 0, 0, 1);
+    position: absolute;
+    top: 12px;
+    left: 207px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 18px;
+    opacity: 1;
+    text-align: center;
+}
+
+.v196_288 {
+    width: 24px;
+    color: rgba(0, 0, 0, 1);
+    position: absolute;
+    top: 12px;
+    left: 111px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 18px;
+    opacity: 1;
+    text-align: center;
+}
+
+.v196_289 {
+    width: 24px;
+    color: rgba(0, 0, 0, 1);
+    position: absolute;
+    top: 12px;
+    left: 13px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 18px;
+    opacity: 1;
+    text-align: center;
+}
+
+.v196_290 {
+    width: 270px;
+    height: 980px;
+    background: url("../images/v196_290.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 216px;
+    left: 1136px;
+    overflow: hidden;
+}
+
+.v196_291 {
+    width: 256px;
+    height: 962px;
+    background: rgba(255, 255, 255, 1);
+    opacity: 1;
+    position: absolute;
+    top: 10px;
+    left: 4px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.25);
+    overflow: hidden;
+}
+
+.v196_292 {
+    width: 209px;
+    height: 195px;
+    background: url("../images/v196_292.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 664px;
+    left: 32px;
+    overflow: hidden;
+}
+
+.v196_293 {
+    width: 24px;
+    height: 24px;
+    background: rgba(255, 255, 255, 1);
+    opacity: 1;
+    position: absolute;
+    top: 26px;
+    left: 209px;
+    transform: rotate(-180deg);
+    overflow: hidden;
+}
+
+.v196_294 {
+    width: 19px;
+    height: 10px;
+    background: url("../images/v196_294.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 7px;
+    left: 2px;
+    overflow: hidden;
+}
+
+.v196_295 {
+    width: 19px;
+    height: 10px;
+    background: rgba(0, 0, 0, 1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+
+.v201_851 {
+    opacity: 1;
+    position: absolute;
+    top: 177px;
+    left: 37px;
+    -webkit-transform: scale(1.5);
+    transform: scale(1.5);
+    overflow: hidden;
+}
+
+.v201_848 {
+    opacity: 1;
+    position: absolute;
+    top: 149px;
+    left: 37px;
+    -webkit-transform: scale(1.5);
+    transform: scale(1.5);
+    overflow: hidden;
+}
+
+.v201_847 {
+    opacity: 1;
+    position: absolute;
+    top: 121px;
+    left: 37px;
+    -webkit-transform: scale(1.5);
+    transform: scale(1.5);
+    overflow: hidden;
+}
+
+.v196_298 {
+    opacity: 1;
+    position: absolute;
+    top: 93px;
+    left: 37px;
+    -webkit-transform: scale(1.5);
+    transform: scale(1.5);
+    overflow: hidden;
+}
+
+.v196_297 {
+    opacity: 1;
+    position: absolute;
+    top: 65px;
+    left: 37px;
+    -webkit-transform: scale(1.5);
+    transform: scale(1.5);
+    overflow: hidden;
+}
+
+.v196_296 {
+    opacity: 1;
+    position: absolute;
+    top: 37px;
+    left: 37px;
+    -webkit-transform: scale(1.5);
+    transform: scale(1.5);
+    overflow: hidden;
+}
+
+.v196_299 {
+    width: 123px;
+    color: rgba(0, 0, 0, 1);
+    position: absolute;
+    top: 38px;
+    left: 69px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 14px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v196_300 {
+    width: 118px;
+    color: rgba(0, 0, 0, 1);
+    position: absolute;
+    top: 67px;
+    left: 69px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 14px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v196_301 {
+    width: 121px;
+    color: rgba(0, 0, 0, 1);
+    position: absolute;
+    top: 178px;
+    left: 69px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 14px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v201_852 {
+    width: 121px;
+    color: rgba(0, 0, 0, 1);
+    position: absolute;
+    top: 150px;
+    left: 69px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 14px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v201_850 {
+    width: 121px;
+    color: rgba(0, 0, 0, 1);
+    position: absolute;
+    top: 122px;
+    left: 69px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 14px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v201_849 {
+    width: 121px;
+    color: rgba(0, 0, 0, 1);
+    position: absolute;
+    top: 94px;
+    left: 69px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 14px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v196_302 {
+    width: 172px;
+    color: rgba(0, 0, 0, 1);
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 18px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v196_314 {
+    width: 204px;
+    height: 110px;
+    background: url("../images/v196_314.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 526px;
+    left: 32px;
+    overflow: hidden;
+}
+
+.v196_315 {
+    width: 24px;
+    height: 24px;
+    background: rgba(255, 255, 255, 1);
+    opacity: 1;
+    position: absolute;
+    top: 25px;
+    left: 204px;
+    transform: rotate(-180deg);
+    overflow: hidden;
+}
+
+.v196_316 {
+    width: 19px;
+    height: 10px;
+    background: url("../images/v196_316.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 7px;
+    left: 2px;
+    overflow: hidden;
+}
+
+.v196_317 {
+    width: 19px;
+    height: 10px;
+    background: rgba(0, 0, 0, 1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+
+.v196_318 {
+    opacity: 1;
+    position: absolute;
+    top: 36px;
+    left: 32px;
+    -webkit-transform: scale(1.5);
+    transform: scale(1.5);
+    overflow: hidden;
+}
+
+.v196_319 {
+    opacity: 1;
+    position: absolute;
+    top: 64px;
+    left: 32px;
+    -webkit-transform: scale(1.5);
+    transform: scale(1.5);
+    overflow: hidden;
+}
+
+.v196_320 {
+    opacity: 1;
+    position: absolute;
+    top: 92px;
+    left: 32px;
+    -webkit-transform: scale(1.5);
+    transform: scale(1.5);
+    overflow: hidden;
+}
+
+.v196_321 {
+    width: 123px;
+    color: rgba(0, 0, 0, 1);
+    position: absolute;
+    top: 37px;
+    left: 60px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 14px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v196_322 {
+    width: 118px;
+    color: rgba(0, 0, 0, 1);
+    position: absolute;
+    top: 66px;
+    left: 60px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 14px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v196_323 {
+    width: 144px;
+    color: rgba(0, 0, 0, 1);
+    position: absolute;
+    top: 93px;
+    left: 60px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 14px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v196_324 {
+    width: 169px;
+    color: rgba(0, 0, 0, 1);
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 18px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v196_325 {
+    width: 201px;
+    height: 223px;
+    background: url("../images/v196_325.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 273px;
+    left: 32px;
+    overflow: hidden;
+}
+
+.v196_326 {
+    width: 24px;
+    height: 24px;
+    background: rgba(255, 255, 255, 1);
+    opacity: 1;
+    position: absolute;
+    top: 26px;
+    left: 201px;
+    transform: rotate(-180deg);
+    overflow: hidden;
+}
+
+.v196_327 {
+    width: 19px;
+    height: 10px;
+    background: url("../images/v196_327.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 7px;
+    left: 2px;
+    overflow: hidden;
+}
+
+.v196_328 {
+    width: 19px;
+    height: 10px;
+    background: rgba(0, 0, 0, 1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+
+.v196_329 {
+    opacity: 1;
+    position: absolute;
+    top: 37px;
+    left: 29px;
+    -webkit-transform: scale(1.5);
+    transform: scale(1.5);
+    overflow: hidden;
+}
+
+.v196_330 {
+    opacity: 1;
+    position: absolute;
+    top: 121px;
+    left: 29px;
+    -webkit-transform: scale(1.5);
+    transform: scale(1.5);
+    overflow: hidden;
+}
+
+.v196_331 {
+    opacity: 1;
+    position: absolute;
+    top: 149px;
+    left: 29px;
+    -webkit-transform: scale(1.5);
+    transform: scale(1.5);
+    overflow: hidden;
+}
+
+.v196_332 {
+    opacity: 1;
+    position: absolute;
+    top: 177px;
+    left: 29px;
+    -webkit-transform: scale(1.5);
+    transform: scale(1.5);
+    overflow: hidden;
+}
+
+.v196_333 {
+    opacity: 1;
+    position: absolute;
+    top: 205px;
+    left: 29px;
+    -webkit-transform: scale(1.5);
+    transform: scale(1.5);
+    overflow: hidden;
+}
+
+.v196_334 {
+    opacity: 1;
+    position: absolute;
+    top: 93px;
+    left: 29px;
+    -webkit-transform: scale(1.5);
+    transform: scale(1.5);
+    overflow: hidden;
+}
+
+.v196_335 {
+    opacity: 1;
+    position: absolute;
+    top: 65px;
+    left: 29px;
+    -webkit-transform: scale(1.5);
+    transform: scale(1.5);
+    overflow: hidden;
+}
+
+.v196_336 {
+    width: 138px;
+    color: rgba(0, 0, 0, 1);
+    position: absolute;
+    top: 38px;
+    left: 56px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 14px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v196_337 {
+    width: 138px;
+    color: rgba(0, 0, 0, 1);
+    position: absolute;
+    top: 122px;
+    left: 56px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 14px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v196_338 {
+    width: 145px;
+    color: rgba(0, 0, 0, 1);
+    position: absolute;
+    top: 178px;
+    left: 56px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 14px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v196_339 {
+    width: 138px;
+    color: rgba(0, 0, 0, 1);
+    position: absolute;
+    top: 150px;
+    left: 56px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 14px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v196_340 {
+    width: 138px;
+    color: rgba(0, 0, 0, 1);
+    position: absolute;
+    top: 206px;
+    left: 56px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 14px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v196_341 {
+    width: 138px;
+    color: rgba(0, 0, 0, 1);
+    position: absolute;
+    top: 66px;
+    left: 56px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 14px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v196_342 {
+    width: 143px;
+    color: rgba(0, 0, 0, 1);
+    position: absolute;
+    top: 94px;
+    left: 56px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 14px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v196_343 {
+    width: 114px;
+    color: rgba(0, 0, 0, 1);
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 18px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v196_344 {
+    width: 210px;
+    height: 161px;
+    background: url("../images/v196_344.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 75px;
+    left: 32px;
+    overflow: hidden;
+}
+
+.v196_345 {
+    width: 24px;
+    height: 24px;
+    background: rgba(255, 255, 255, 1);
+    opacity: 1;
+    position: absolute;
+    top: 48px;
+    left: 206px;
+    transform: rotate(-180deg);
+    overflow: hidden;
+}
+
+.v196_346 {
+    width: 19px;
+    height: 10px;
+    background: url("../images/v196_346.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 7px;
+    left: 2px;
+    overflow: hidden;
+}
+
+.v196_347 {
+    width: 19px;
+    height: 10px;
+    background: rgba(0, 0, 0, 1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+
+.v196_348 {
+    opacity: 1;
+    position: absolute;
+    top: 59px;
+    left: 34px;
+    -webkit-transform: scale(1.5);
+    transform: scale(1.5);
+    overflow: hidden;
+}
+
+.v196_349 {
+    opacity: 1;
+    position: absolute;
+    top: 143px;
+    left: 34px;
+    -webkit-transform: scale(1.5);
+    transform: scale(1.5);
+    overflow: hidden;
+}
+
+.v196_350 {
+    opacity: 1;
+    position: absolute;
+    top: 115px;
+    left: 34px;
+    -webkit-transform: scale(1.5);
+    transform: scale(1.5);
+    overflow: hidden;
+}
+
+.v196_351 {
+    opacity: 1;
+    position: absolute;
+    top: 87px;
+    left: 34px;
+    -webkit-transform: scale(1.5);
+    transform: scale(1.5);
+    overflow: hidden;
+}
+
+.v196_352 {
+    width: 123px;
+    color: rgba(0, 0, 0, 1);
+    position: absolute;
+    top: 60px;
+    left: 62px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 14px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v196_353 {
+    width: 148px;
+    color: rgba(0, 0, 0, 1);
+    position: absolute;
+    top: 144px;
+    left: 62px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 14px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v196_354 {
+    width: 132px;
+    color: rgba(0, 0, 0, 1);
+    position: absolute;
+    top: 88px;
+    left: 62px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 14px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v196_355 {
+    width: 110px;
+    color: rgba(0, 0, 0, 1);
+    position: absolute;
+    top: 116px;
+    left: 62px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 14px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v196_356 {
+    width: 199px;
+    color: rgba(0, 0, 0, 1);
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 18px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v196_357 {
+    width: 169px;
+    color: rgba(0, 0, 0, 1);
+    position: absolute;
+    top: 27px;
+    left: 0px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 18px;
+    opacity: 1;
+    text-align: center;
+}
+
+.v196_358 {
+    width: 67px;
+    color: rgba(0, 0, 255, 1);
+    position: absolute;
+    top: 39px;
+    left: 126px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 12px;
+    opacity: 1;
+    text-align: center;
+}
+
+.v196_359 {
+    width: 1000px;
+    height: 5216px;
+    opacity: 1;
+    position: absolute;
+    top: 210px;
+    left: 43px;
+    overflow: hidden;
+}
+
+.v199_812 {
+    width: 984px;
+    height: 282px;
+    opacity: 1;
+    position: absolute;
+    top: 1254px;
+    left: 10px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.25);
+    overflow: hidden;
+}
+
+.v199_813 {
+    width: 984px;
+    height: 282px;
+    background: rgba(255, 255, 255, 1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    overflow: hidden;
+}
+
+.v199_814 {
+    width: 250px;
+    color: rgba(137, 5, 137, 1);
+    position: absolute;
+    top: 181px;
+    left: 722px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 36px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v199_815 {
+    width: 199px;
+    color: rgba(0, 0, 0, 0.49000000953674316);
+    position: absolute;
+    top: 215px;
+    left: 722px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 14px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v201_845 {
+    width: 106px;
+    color: rgba(0, 0, 0, 1);
+    position: absolute;
+    top: 161px;
+    left: 722px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 14px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v199_816 {
+    width: 698px;
+    height: 165px;
+    background: url("../images/v199_816.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 36px;
+    left: 236px;
+    overflow: hidden;
+}
+
+.v199_817 {
+    width: 193px;
+    color: rgba(0, 0, 0, 0.5);
+    position: absolute;
+    top: 85px;
+    left: 0px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 18px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v199_818 {
+    width: 698px;
+    color: rgba(0, 0, 0, 1);
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 36px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v199_819 {
+    width: 219px;
+    color: rgba(0, 0, 0, 1);
+    position: absolute;
+    top: 114px;
+    left: 0px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 18px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v199_820 {
+    width: 125px;
+    height: 32px;
+    background: url("../images/v199_820.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 53px;
+    left: 0px;
+    overflow: hidden;
+}
+
+.v199_823 {
+    width: 32px;
+    height: 32px;
+    background: rgba(255, 255, 255, 1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 93px;
+    overflow: hidden;
+}
+
+.v199_824 {
+    width: 30px;
+    height: 29px;
+    background: rgba(255, 206, 49, 1);
+    opacity: 1;
+    position: absolute;
+    top: 1px;
+    left: 1px;
+}
+
+.v199_825 {
+    width: 32px;
+    height: 32px;
+    background: rgba(255, 255, 255, 1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 63px;
+    overflow: hidden;
+}
+
+.v199_826 {
+    width: 30px;
+    height: 29px;
+    background: rgba(255, 206, 49, 1);
+    opacity: 1;
+    position: absolute;
+    top: 1px;
+    left: 1px;
+}
+
+.v199_827 {
+    width: 32px;
+    height: 32px;
+    background: rgba(255, 255, 255, 1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 32px;
+    overflow: hidden;
+}
+
+.v199_828 {
+    width: 30px;
+    height: 29px;
+    background: rgba(255, 206, 49, 1);
+    opacity: 1;
+    position: absolute;
+    top: 1px;
+    left: 1px;
+}
+
+.v199_829 {
+    width: 32px;
+    height: 32px;
+    background: rgba(255, 255, 255, 1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+}
+
+.v199_830 {
+    width: 30px;
+    height: 29px;
+    background: rgba(255, 206, 49, 1);
+    opacity: 1;
+    position: absolute;
+    top: 1px;
+    left: 1px;
+}
+
+.v199_831 {
+    width: 220px;
+    height: 282px;
+    background: rgba(196, 196, 196, 0);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    overflow: hidden;
+}
+
+.v201_837 {
+    width: 220px;
+    height: 282px;
+    background: url("Hotel/fox hotel.jpeg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    overflow: hidden;
+}
+
+.v199_791 {
+    width: 984px;
+    height: 282px;
+    opacity: 1;
+    position: absolute;
+    top: 943px;
+    left: 10px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.25);
+    overflow: hidden;
+}
+
+.v199_792 {
+    width: 984px;
+    height: 282px;
+    background: rgba(255, 255, 255, 1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    overflow: hidden;
+}
+
+.v199_793 {
+    width: 254px;
+    color: rgba(137, 5, 137, 1);
+    position: absolute;
+    top: 181px;
+    left: 722px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 36px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v199_794 {
+    width: 154px;
+    color: rgba(0, 0, 0, 0.49000000953674316);
+    position: absolute;
+    top: 217px;
+    left: 722px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 14px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v201_844 {
+    width: 106px;
+    color: rgba(0, 0, 0, 1);
+    position: absolute;
+    top: 163px;
+    left: 722px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 14px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v199_795 {
+    width: 502px;
+    height: 165px;
+    background: url("../images/v199_795.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 36px;
+    left: 236px;
+    overflow: hidden;
+}
+
+.v199_796 {
+    width: 193px;
+    color: rgba(0, 0, 0, 0.5);
+    position: absolute;
+    top: 85px;
+    left: 0px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 18px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v199_797 {
+    width: 502px;
+    color: rgba(0, 0, 0, 1);
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 36px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v199_798 {
+    width: 219px;
+    color: rgba(0, 0, 0, 1);
+    position: absolute;
+    top: 114px;
+    left: 0px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 18px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v199_799 {
+    width: 156px;
+    height: 32px;
+    background: url("../images/v199_799.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 53px;
+    left: 0px;
+    overflow: hidden;
+}
+
+.v199_800 {
+    width: 32px;
+    height: 32px;
+    background: rgba(255, 255, 255, 1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 124px;
+    overflow: hidden;
+}
+
+.v199_801 {
+    width: 30px;
+    height: 29px;
+    background: rgba(255, 206, 49, 1);
+    opacity: 1;
+    position: absolute;
+    top: 1px;
+    left: 1px;
+}
+
+.v199_802 {
+    width: 32px;
+    height: 32px;
+    background: rgba(255, 255, 255, 1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 93px;
+    overflow: hidden;
+}
+
+.v199_803 {
+    width: 30px;
+    height: 29px;
+    background: rgba(255, 206, 49, 1);
+    opacity: 1;
+    position: absolute;
+    top: 1px;
+    left: 1px;
+}
+
+.v199_804 {
+    width: 32px;
+    height: 32px;
+    background: rgba(255, 255, 255, 1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 63px;
+    overflow: hidden;
+}
+
+.v199_805 {
+    width: 30px;
+    height: 29px;
+    background: rgba(255, 206, 49, 1);
+    opacity: 1;
+    position: absolute;
+    top: 1px;
+    left: 1px;
+}
+
+.v199_806 {
+    width: 32px;
+    height: 32px;
+    background: rgba(255, 255, 255, 1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 32px;
+    overflow: hidden;
+}
+
+.v199_807 {
+    width: 30px;
+    height: 29px;
+    background: rgba(255, 206, 49, 1);
+    opacity: 1;
+    position: absolute;
+    top: 1px;
+    left: 1px;
+}
+
+.v199_808 {
+    width: 32px;
+    height: 32px;
+    background: rgba(255, 255, 255, 1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+}
+
+.v199_809 {
+    width: 30px;
+    height: 29px;
+    background: rgba(255, 206, 49, 1);
+    opacity: 1;
+    position: absolute;
+    top: 1px;
+    left: 1px;
+}
+
+.v199_810 {
+    width: 220px;
+    height: 282px;
+    background: rgba(196, 196, 196, 0);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    overflow: hidden;
+}
+
+.v201_836 {
+    width: 220px;
+    height: 282px;
+    background: url("Hotel/gaia hotel.jpeg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    overflow: hidden;
+}
+
+.v199_770 {
+    width: 984px;
+    height: 282px;
+    opacity: 1;
+    position: absolute;
+    top: 632px;
+    left: 10px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.25);
+    overflow: hidden;
+}
+
+.v199_771 {
+    width: 984px;
+    height: 282px;
+    background: rgba(255, 255, 255, 1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    overflow: hidden;
+}
+
+.v199_772 {
+    width: 219px;
+    color: rgba(137, 5, 137, 1);
+    position: absolute;
+    top: 181px;
+    left: 722px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 36px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v199_773 {
+    width: 199px;
+    color: rgba(0, 0, 0, 0.49000000953674316);
+    position: absolute;
+    top: 215px;
+    left: 722px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 14px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v201_843 {
+    width: 106px;
+    color: rgba(0, 0, 0, 1);
+    position: absolute;
+    top: 161px;
+    left: 722px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 14px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v199_774 {
+    width: 512px;
+    height: 165px;
+    background: url("../images/v199_774.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 36px;
+    left: 236px;
+    overflow: hidden;
+}
+
+.v199_775 {
+    width: 193px;
+    color: rgba(0, 0, 0, 0.5);
+    position: absolute;
+    top: 85px;
+    left: 0px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 18px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v199_776 {
+    width: 512px;
+    color: rgba(0, 0, 0, 1);
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 36px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v199_777 {
+    width: 219px;
+    color: rgba(0, 0, 0, 1);
+    position: absolute;
+    top: 114px;
+    left: 0px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 18px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v199_778 {
+    width: 125px;
+    height: 32px;
+    background: url("../images/v199_778.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 53px;
+    left: 0px;
+    overflow: hidden;
+}
+
+.v199_781 {
+    width: 32px;
+    height: 32px;
+    background: rgba(255, 255, 255, 1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 93px;
+    overflow: hidden;
+}
+
+.v199_782 {
+    width: 30px;
+    height: 29px;
+    background: rgba(255, 206, 49, 1);
+    opacity: 1;
+    position: absolute;
+    top: 1px;
+    left: 1px;
+}
+
+.v199_783 {
+    width: 32px;
+    height: 32px;
+    background: rgba(255, 255, 255, 1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 63px;
+    overflow: hidden;
+}
+
+.v199_784 {
+    width: 30px;
+    height: 29px;
+    background: rgba(255, 206, 49, 1);
+    opacity: 1;
+    position: absolute;
+    top: 1px;
+    left: 1px;
+}
+
+.v199_785 {
+    width: 32px;
+    height: 32px;
+    background: rgba(255, 255, 255, 1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 32px;
+    overflow: hidden;
+}
+
+.v199_786 {
+    width: 30px;
+    height: 29px;
+    background: rgba(255, 206, 49, 1);
+    opacity: 1;
+    position: absolute;
+    top: 1px;
+    left: 1px;
+}
+
+.v199_787 {
+    width: 32px;
+    height: 32px;
+    background: rgba(255, 255, 255, 1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+}
+
+.v199_788 {
+    width: 30px;
+    height: 29px;
+    background: rgba(255, 206, 49, 1);
+    opacity: 1;
+    position: absolute;
+    top: 1px;
+    left: 1px;
+}
+
+.v199_789 {
+    width: 220px;
+    height: 282px;
+    background: rgba(196, 196, 196, 0);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    overflow: hidden;
+}
+
+.v201_835 {
+    width: 220px;
+    height: 282px;
+    background: url("Hotel/royale hotel.jpeg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    overflow: hidden;
+}
+
+.v199_749 {
+    width: 984px;
+    height: 282px;
+    opacity: 1;
+    position: absolute;
+    top: 321px;
+    left: 10px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.25);
+    overflow: hidden;
+}
+
+.v199_750 {
+    width: 984px;
+    height: 282px;
+    background: rgba(255, 255, 255, 1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    overflow: hidden;
+}
+
+.v199_751 {
+    width: 219px;
+    color: rgba(137, 5, 137, 1);
+    position: absolute;
+    top: 181px;
+    left: 722px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 36px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v199_752 {
+    width: 199px;
+    color: rgba(0, 0, 0, 0.49000000953674316);
+    position: absolute;
+    top: 215px;
+    left: 722px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 14px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v201_841 {
+    width: 106px;
+    color: rgba(0, 0, 0, 1);
+    position: absolute;
+    top: 164px;
+    left: 722px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 14px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v199_753 {
+    width: 512px;
+    height: 165px;
+    background: url("../images/v199_753.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 36px;
+    left: 236px;
+    overflow: hidden;
+}
+
+.v199_754 {
+    width: 193px;
+    color: rgba(0, 0, 0, 0.5);
+    position: absolute;
+    top: 85px;
+    left: 0px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 18px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v199_755 {
+    width: 512px;
+    color: rgba(0, 0, 0, 1);
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 36px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v199_756 {
+    width: 219px;
+    color: rgba(0, 0, 0, 1);
+    position: absolute;
+    top: 114px;
+    left: 0px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 18px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v199_757 {
+    width: 156px;
+    height: 32px;
+    background: url("../images/v199_757.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 53px;
+    left: 0px;
+    overflow: hidden;
+}
+
+.v199_758 {
+    width: 32px;
+    height: 32px;
+    background: rgba(255, 255, 255, 1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 124px;
+    overflow: hidden;
+}
+
+.v199_759 {
+    width: 30px;
+    height: 29px;
+    background: rgba(255, 206, 49, 1);
+    opacity: 1;
+    position: absolute;
+    top: 1px;
+    left: 1px;
+}
+
+.v199_760 {
+    width: 32px;
+    height: 32px;
+    background: rgba(255, 255, 255, 1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 93px;
+    overflow: hidden;
+}
+
+.v199_761 {
+    width: 30px;
+    height: 29px;
+    background: rgba(255, 206, 49, 1);
+    opacity: 1;
+    position: absolute;
+    top: 1px;
+    left: 1px;
+}
+
+.v199_762 {
+    width: 32px;
+    height: 32px;
+    background: rgba(255, 255, 255, 1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 63px;
+    overflow: hidden;
+}
+
+.v199_763 {
+    width: 30px;
+    height: 29px;
+    background: rgba(255, 206, 49, 1);
+    opacity: 1;
+    position: absolute;
+    top: 1px;
+    left: 1px;
+}
+
+.v199_764 {
+    width: 32px;
+    height: 32px;
+    background: rgba(255, 255, 255, 1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 32px;
+    overflow: hidden;
+}
+
+.v199_765 {
+    width: 30px;
+    height: 29px;
+    background: rgba(255, 206, 49, 1);
+    opacity: 1;
+    position: absolute;
+    top: 1px;
+    left: 1px;
+}
+
+.v199_766 {
+    width: 32px;
+    height: 32px;
+    background: rgba(255, 255, 255, 1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+}
+
+.v199_767 {
+    width: 30px;
+    height: 29px;
+    background: rgba(255, 206, 49, 1);
+    opacity: 1;
+    position: absolute;
+    top: 1px;
+    left: 1px;
+}
+
+.v199_768 {
+    width: 220px;
+    height: 282px;
+    background: rgba(196, 196, 196, 0);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    overflow: hidden;
+}
+
+.v201_834 {
+    width: 220px;
+    height: 282px;
+    background: url("Hotel/ibis trans studio.jpeg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    overflow: hidden;
+}
+
+.v199_728 {
+    width: 980px;
+    height: 282px;
+    opacity: 1;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.25);
+    overflow: hidden;
+}
+
+.v199_729 {
+    width: 984px;
+    height: 282px;
+    background: rgba(255, 255, 255, 1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    overflow: hidden;
+}
+
+.v199_730 {
+    width: 257px;
+    color: rgba(137, 5, 137, 1);
+    position: absolute;
+    top: 181px;
+    left: 722px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 36px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v199_731 {
+    width: 199px;
+    color: rgba(0, 0, 0, 0.49000000953674316);
+    position: absolute;
+    top: 215px;
+    left: 722px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 14px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v201_840 {
+    width: 106px;
+    color: rgba(0, 0, 0, 1);
+    position: absolute;
+    top: 160px;
+    left: 722px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 14px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v199_732 {
+    width: 438px;
+    height: 165px;
+    background: url("../images/v199_732.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 36px;
+    left: 236px;
+    overflow: hidden;
+}
+
+.v199_733 {
+    width: 193px;
+    color: rgba(0, 0, 0, 0.5);
+    position: absolute;
+    top: 85px;
+    left: 0px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 18px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v199_734 {
+    width: 438px;
+    color: rgba(0, 0, 0, 1);
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 36px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v199_735 {
+    width: 219px;
+    color: rgba(0, 0, 0, 1);
+    position: absolute;
+    top: 114px;
+    left: 0px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 18px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v199_736 {
+    width: 156px;
+    height: 32px;
+    background: url("../images/v199_736.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 53px;
+    left: 0px;
+    overflow: hidden;
+}
+
+.v199_737 {
+    width: 32px;
+    height: 32px;
+    background: rgba(255, 255, 255, 1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 124px;
+    overflow: hidden;
+}
+
+.v199_738 {
+    width: 30px;
+    height: 29px;
+    background: rgba(255, 206, 49, 1);
+    opacity: 1;
+    position: absolute;
+    top: 1px;
+    left: 1px;
+}
+
+.v199_739 {
+    width: 32px;
+    height: 32px;
+    background: rgba(255, 255, 255, 1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 93px;
+    overflow: hidden;
+}
+
+.v199_740 {
+    width: 30px;
+    height: 29px;
+    background: rgba(255, 206, 49, 1);
+    opacity: 1;
+    position: absolute;
+    top: 1px;
+    left: 1px;
+}
+
+.v199_741 {
+    width: 32px;
+    height: 32px;
+    background: rgba(255, 255, 255, 1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 63px;
+    overflow: hidden;
+}
+
+.v199_742 {
+    width: 30px;
+    height: 29px;
+    background: rgba(255, 206, 49, 1);
+    opacity: 1;
+    position: absolute;
+    top: 1px;
+    left: 1px;
+}
+
+.v199_743 {
+    width: 32px;
+    height: 32px;
+    background: rgba(255, 255, 255, 1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 32px;
+    overflow: hidden;
+}
+
+.v199_744 {
+    width: 30px;
+    height: 29px;
+    background: rgba(255, 206, 49, 1);
+    opacity: 1;
+    position: absolute;
+    top: 1px;
+    left: 1px;
+}
+
+.v199_745 {
+    width: 32px;
+    height: 32px;
+    background: rgba(255, 255, 255, 1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+}
+
+.v199_746 {
+    width: 30px;
+    height: 29px;
+    background: rgba(255, 206, 49, 1);
+    opacity: 1;
+    position: absolute;
+    top: 1px;
+    left: 1px;
+}
+
+.v199_747 {
+    width: 220px;
+    height: 282px;
+    background: rgba(196, 196, 196, 0);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    overflow: hidden;
+}
+
+.v199_748 {
+    width: 220px;
+    height: 282px;
+    background: url("Hotel/trans luxury hotel.jpeg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    overflow: hidden;
+}
+
+.v196_540 {
+    width: 100%;
+    height: 144px;
+    background: url("../images/v196_540.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+}
+
+.v196_541 {
+    width: 100%;
+    height: 144px;
+    background: rgba(255, 255, 255, 1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border: 1px solid rgba(109, 109, 109, 0.30000001192092896);
+    overflow: hidden;
+}
+
+.v196_546 {
+    width: 80px;
+    height: 80px;
+    background: url("../images/v196_546.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 37px;
+    left: 43px;
+    overflow: hidden;
+}
+
+.v196_547 {
+    width: 80px;
+    height: 80px;
+    background: rgba(235, 165, 235, 1);
+    border-top-left-radius: 40px;
+    border-top-right-radius: 40px;
+    border-bottom-left-radius: 40px;
+    border-bottom-right-radius: 40px;
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+
+.v196_554 {
+    width: 268px;
+    color: rgba(109, 0, 109, 1);
+    position: absolute;
+    top: 51px;
+    left: 1128px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 24px;
+    opacity: 1;
+    text-align: center;
+}
+
+.v196_555 {
+    width: 661px;
+    color: rgba(0, 0, 0, 0.800000011920929);
+    position: absolute;
+    top: 45px;
+    left: 144px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 22px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v196_557 {
+    width: 352px;
+    color: rgba(0, 0, 0, 0.800000011920929);
+    position: absolute;
+    top: 82px;
+    left: 151px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 18px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v196_559 {
+    width: 43px;
+    height: 43px;
+    opacity: 1;
+    position: absolute;
+    top: 55px;
+    left: 62px;
+    overflow: hidden;
+}
+
+
+/*=============================================GH HOTEL=================*/
+
+.v242_274 {
+    width: 984px;
+    height: 282px;
+    background: url("../images/v242_274.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 1565px;
+    left: 0px;
+    overflow: hidden;
+}
+
+.v242_275 {
+    width: 984px;
+    height: 282px;
+    background: rgba(255, 255, 255, 1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    overflow: hidden;
+}
+
+.v242_276 {
+    width: 250px;
+    color: rgba(137, 5, 137, 1);
+    position: absolute;
+    top: 181px;
+    left: 722px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 36px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v242_277 {
+    width: 199px;
+    color: rgba(0, 0, 0, 0.49000000953674316);
+    position: absolute;
+    top: 215px;
+    left: 722px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 14px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v242_278 {
+    width: 106px;
+    color: rgba(0, 0, 0, 1);
+    position: absolute;
+    top: 161px;
+    left: 722px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 14px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v242_279 {
+    width: 438px;
+    height: 138px;
+    background: url("../images/v242_279.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 36px;
+    left: 236px;
+    overflow: hidden;
+}
+
+.v242_280 {
+    width: 193px;
+    color: rgba(0, 0, 0, 0.5);
+    position: absolute;
+    top: 85px;
+    left: 0px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 18px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v242_281 {
+    width: 438px;
+    color: rgba(0, 0, 0, 1);
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 36px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v242_282 {
+    width: 219px;
+    color: rgba(0, 0, 0, 1);
+    position: absolute;
+    top: 114px;
+    left: 0px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 18px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v242_283 {
+    width: 156px;
+    height: 32px;
+    background: url("../images/v242_283.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 53px;
+    left: 0px;
+    overflow: hidden;
+}
+
+.v242_284 {
+    width: 32px;
+    height: 32px;
+    background: rgba(255, 255, 255, 1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 124px;
+    overflow: hidden;
+}
+
+.v242_285 {
+    width: 30px;
+    height: 29px;
+    background: rgba(255, 206, 49, 1);
+    opacity: 1;
+    position: absolute;
+    top: 1px;
+    left: 1px;
+}
+
+.v242_286 {
+    width: 32px;
+    height: 32px;
+    background: rgba(255, 255, 255, 1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 93px;
+    overflow: hidden;
+}
+
+.v242_287 {
+    width: 30px;
+    height: 29px;
+    background: rgba(255, 206, 49, 1);
+    opacity: 1;
+    position: absolute;
+    top: 1px;
+    left: 1px;
+}
+
+.v242_288 {
+    width: 32px;
+    height: 32px;
+    background: rgba(255, 255, 255, 1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 63px;
+    overflow: hidden;
+}
+
+.v242_289 {
+    width: 30px;
+    height: 29px;
+    background: rgba(255, 206, 49, 1);
+    opacity: 1;
+    position: absolute;
+    top: 1px;
+    left: 1px;
+}
+
+.v242_290 {
+    width: 32px;
+    height: 32px;
+    background: rgba(255, 255, 255, 1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 32px;
+    overflow: hidden;
+}
+
+.v242_291 {
+    width: 30px;
+    height: 29px;
+    background: rgba(255, 206, 49, 1);
+    opacity: 1;
+    position: absolute;
+    top: 1px;
+    left: 1px;
+}
+
+.v242_292 {
+    width: 32px;
+    height: 32px;
+    background: rgba(255, 255, 255, 1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+}
+
+.v242_293 {
+    width: 30px;
+    height: 29px;
+    background: rgba(255, 206, 49, 1);
+    opacity: 1;
+    position: absolute;
+    top: 1px;
+    left: 1px;
+}
+
+.v242_294 {
+    width: 220px;
+    height: 282px;
+    background: rgba(196, 196, 196, 0);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    overflow: hidden;
+}
+
+.v242_295 {
+    width: 220px;
+    height: 282px;
+    background: url("Hotel/GH hotel.jpeg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    overflow: hidden;
+}
+
+
+/*=============================================GH HOTEL=================*/
+
+
+/*=============================================PULLMAN BANDUNG==========*/
+
+.v242_296 {
+    width: 984px;
+    height: 282px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 1876px;
+    left: 10px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.25);
+    overflow: hidden;
+}
+
+.v242_297 {
+    width: 984px;
+    height: 282px;
+    background: rgba(255, 255, 255, 1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    overflow: hidden;
+}
+
+.v242_298 {
+    width: 256px;
+    color: rgba(137, 5, 137, 1);
+    position: absolute;
+    top: 181px;
+    left: 722px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 36px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v242_299 {
+    width: 199px;
+    color: rgba(0, 0, 0, 0.49000000953674316);
+    position: absolute;
+    top: 215px;
+    left: 722px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 14px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v242_300 {
+    width: 106px;
+    color: rgba(0, 0, 0, 1);
+    position: absolute;
+    top: 161px;
+    left: 722px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 14px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v242_301 {
+    width: 607px;
+    height: 138px;
+    background: url("../images/v242_301.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 36px;
+    left: 236px;
+    overflow: hidden;
+}
+
+.v242_302 {
+    width: 193px;
+    color: rgba(0, 0, 0, 0.5);
+    position: absolute;
+    top: 85px;
+    left: 0px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 18px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v242_303 {
+    width: 607px;
+    color: rgba(0, 0, 0, 1);
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 36px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v242_304 {
+    width: 219px;
+    color: rgba(0, 0, 0, 1);
+    position: absolute;
+    top: 114px;
+    left: 0px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 18px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v242_305 {
+    width: 156px;
+    height: 32px;
+    background: url("../images/v242_305.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 53px;
+    left: 0px;
+    overflow: hidden;
+}
+
+.v242_306 {
+    width: 32px;
+    height: 32px;
+    background: rgba(255, 255, 255, 1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 124px;
+    overflow: hidden;
+}
+
+.v242_307 {
+    width: 30px;
+    height: 29px;
+    background: rgba(255, 206, 49, 1);
+    opacity: 1;
+    position: absolute;
+    top: 1px;
+    left: 1px;
+}
+
+.v242_308 {
+    width: 32px;
+    height: 32px;
+    background: rgba(255, 255, 255, 1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 93px;
+    overflow: hidden;
+}
+
+.v242_309 {
+    width: 30px;
+    height: 29px;
+    background: rgba(255, 206, 49, 1);
+    opacity: 1;
+    position: absolute;
+    top: 1px;
+    left: 1px;
+}
+
+.v242_310 {
+    width: 32px;
+    height: 32px;
+    background: rgba(255, 255, 255, 1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 63px;
+    overflow: hidden;
+}
+
+.v242_311 {
+    width: 30px;
+    height: 29px;
+    background: rgba(255, 206, 49, 1);
+    opacity: 1;
+    position: absolute;
+    top: 1px;
+    left: 1px;
+}
+
+.v242_312 {
+    width: 32px;
+    height: 32px;
+    background: rgba(255, 255, 255, 1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 32px;
+    overflow: hidden;
+}
+
+.v242_313 {
+    width: 30px;
+    height: 29px;
+    background: rgba(255, 206, 49, 1);
+    opacity: 1;
+    position: absolute;
+    top: 1px;
+    left: 1px;
+}
+
+.v242_314 {
+    width: 32px;
+    height: 32px;
+    background: rgba(255, 255, 255, 1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+}
+
+.v242_315 {
+    width: 30px;
+    height: 29px;
+    background: rgba(255, 206, 49, 1);
+    opacity: 1;
+    position: absolute;
+    top: 1px;
+    left: 1px;
+}
+
+.v242_316 {
+    width: 220px;
+    height: 282px;
+    background: rgba(196, 196, 196, 0);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    overflow: hidden;
+}
+
+.v242_362 {
+    width: 220px;
+    height: 282px;
+    background: url("Hotel/Pullman hotel.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    overflow: hidden;
+}
+
+
+/*=============================================PULLMAN BANDUNG==========*/
+
+
+/*=============================================The PAPANDAYAN===========*/
+
+.v242_318 {
+    width: 984px;
+    height: 291px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 2187px;
+    left: 10px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.25);
+    overflow: hidden;
+}
+
+.v242_319 {
+    width: 984px;
+    height: 282px;
+    background: rgba(255, 255, 255, 1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    overflow: hidden;
+}
+
+.v242_320 {
+    width: 250px;
+    color: rgba(137, 5, 137, 1);
+    position: absolute;
+    top: 181px;
+    left: 722px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 36px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v242_321 {
+    width: 199px;
+    color: rgba(0, 0, 0, 0.49000000953674316);
+    position: absolute;
+    top: 215px;
+    left: 722px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 14px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v242_322 {
+    width: 106px;
+    color: rgba(0, 0, 0, 1);
+    position: absolute;
+    top: 161px;
+    left: 722px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 14px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v242_323 {
+    width: 438px;
+    height: 138px;
+    background: url("../images/v242_323.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 36px;
+    left: 236px;
+    overflow: hidden;
+}
+
+.v242_324 {
+    width: 193px;
+    color: rgba(0, 0, 0, 0.5);
+    position: absolute;
+    top: 85px;
+    left: 0px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 18px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v242_325 {
+    width: 438px;
+    color: rgba(0, 0, 0, 1);
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 36px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v242_326 {
+    width: 219px;
+    color: rgba(0, 0, 0, 1);
+    position: absolute;
+    top: 114px;
+    left: 0px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 18px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v242_327 {
+    width: 156px;
+    height: 32px;
+    background: url("../images/v242_327.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 53px;
+    left: 0px;
+    overflow: hidden;
+}
+
+.v242_328 {
+    width: 32px;
+    height: 32px;
+    background: rgba(255, 255, 255, 1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 124px;
+    overflow: hidden;
+}
+
+.v242_329 {
+    width: 30px;
+    height: 29px;
+    background: rgba(255, 206, 49, 1);
+    opacity: 1;
+    position: absolute;
+    top: 1px;
+    left: 1px;
+}
+
+.v242_330 {
+    width: 32px;
+    height: 32px;
+    background: rgba(255, 255, 255, 1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 93px;
+    overflow: hidden;
+}
+
+.v242_331 {
+    width: 30px;
+    height: 29px;
+    background: rgba(255, 206, 49, 1);
+    opacity: 1;
+    position: absolute;
+    top: 1px;
+    left: 1px;
+}
+
+.v242_332 {
+    width: 32px;
+    height: 32px;
+    background: rgba(255, 255, 255, 1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 63px;
+    overflow: hidden;
+}
+
+.v242_333 {
+    width: 30px;
+    height: 29px;
+    background: rgba(255, 206, 49, 1);
+    opacity: 1;
+    position: absolute;
+    top: 1px;
+    left: 1px;
+}
+
+.v242_334 {
+    width: 32px;
+    height: 32px;
+    background: rgba(255, 255, 255, 1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 32px;
+    overflow: hidden;
+}
+
+.v242_335 {
+    width: 30px;
+    height: 29px;
+    background: rgba(255, 206, 49, 1);
+    opacity: 1;
+    position: absolute;
+    top: 1px;
+    left: 1px;
+}
+
+.v242_336 {
+    width: 32px;
+    height: 32px;
+    background: rgba(255, 255, 255, 1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+}
+
+.v242_337 {
+    width: 30px;
+    height: 29px;
+    background: rgba(255, 206, 49, 1);
+    opacity: 1;
+    position: absolute;
+    top: 1px;
+    left: 1px;
+}
+
+.v242_338 {
+    width: 220px;
+    height: 282px;
+    background: rgba(196, 196, 196, 0);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    overflow: hidden;
+}
+
+.v242_363 {
+    width: 220px;
+    height: 290px;
+    background: url("Hotel/papandayan hotel.jpeg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    overflow: hidden;
+}
+
+
+/*=============================================The PAPANDAYAN===========*/
+
+
+/*=============================================SENSA HOTEL==============*/
+
+.v242_340 {
+    width: 984px;
+    height: 291px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 2498px;
+    left: 10px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.25);
+    overflow: hidden;
+}
+
+.v242_341 {
+    width: 984px;
+    height: 282px;
+    background: rgba(255, 255, 255, 1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    overflow: hidden;
+}
+
+.v242_342 {
+    width: 250px;
+    color: rgba(137, 5, 137, 1);
+    position: absolute;
+    top: 181px;
+    left: 722px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 36px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v242_343 {
+    width: 199px;
+    color: rgba(0, 0, 0, 0.49000000953674316);
+    position: absolute;
+    top: 215px;
+    left: 722px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 14px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v242_344 {
+    width: 106px;
+    color: rgba(0, 0, 0, 1);
+    position: absolute;
+    top: 161px;
+    left: 722px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 14px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v242_345 {
+    width: 438px;
+    height: 138px;
+    background: url("../images/v242_345.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 36px;
+    left: 236px;
+    overflow: hidden;
+}
+
+.v242_346 {
+    width: 193px;
+    color: rgba(0, 0, 0, 0.5);
+    position: absolute;
+    top: 85px;
+    left: 0px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 18px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v242_347 {
+    width: 438px;
+    color: rgba(0, 0, 0, 1);
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 36px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v242_348 {
+    width: 219px;
+    color: rgba(0, 0, 0, 1);
+    position: absolute;
+    top: 114px;
+    left: 0px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 18px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v242_349 {
+    width: 156px;
+    height: 32px;
+    background: url("../images/v242_349.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 53px;
+    left: 0px;
+    overflow: hidden;
+}
+
+.v242_350 {
+    width: 32px;
+    height: 32px;
+    background: rgba(255, 255, 255, 1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 124px;
+    overflow: hidden;
+}
+
+.v242_351 {
+    width: 30px;
+    height: 29px;
+    background: rgba(255, 206, 49, 1);
+    opacity: 1;
+    position: absolute;
+    top: 1px;
+    left: 1px;
+}
+
+.v242_352 {
+    width: 32px;
+    height: 32px;
+    background: rgba(255, 255, 255, 1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 93px;
+    overflow: hidden;
+}
+
+.v242_353 {
+    width: 30px;
+    height: 29px;
+    background: rgba(255, 206, 49, 1);
+    opacity: 1;
+    position: absolute;
+    top: 1px;
+    left: 1px;
+}
+
+.v242_354 {
+    width: 32px;
+    height: 32px;
+    background: rgba(255, 255, 255, 1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 63px;
+    overflow: hidden;
+}
+
+.v242_355 {
+    width: 30px;
+    height: 29px;
+    background: rgba(255, 206, 49, 1);
+    opacity: 1;
+    position: absolute;
+    top: 1px;
+    left: 1px;
+}
+
+.v242_356 {
+    width: 32px;
+    height: 32px;
+    background: rgba(255, 255, 255, 1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 32px;
+    overflow: hidden;
+}
+
+.v242_357 {
+    width: 30px;
+    height: 29px;
+    background: rgba(255, 206, 49, 1);
+    opacity: 1;
+    position: absolute;
+    top: 1px;
+    left: 1px;
+}
+
+.v242_358 {
+    width: 32px;
+    height: 32px;
+    background: rgba(255, 255, 255, 1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+}
+
+.v242_359 {
+    width: 30px;
+    height: 29px;
+    background: rgba(255, 206, 49, 1);
+    opacity: 1;
+    position: absolute;
+    top: 1px;
+    left: 1px;
+}
+
+.v242_360 {
+    width: 220px;
+    height: 282px;
+    background: rgba(196, 196, 196, 0);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    overflow: hidden;
+}
+
+.v242_364 {
+    width: 220px;
+    height: 290px;
+    background: url("Hotel/sensa hotel.jpeg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    overflow: hidden;
+}
+
+
+/*=============================================SENSA HOTEL==============*/
+
+
+/*=============================================SHAKTI HOTEL=============*/
+
+.v242_366 {
+    width: 984px;
+    height: 282px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 2809px;
+    left: 10px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.25);
+    overflow: hidden;
+}
+
+.v242_367 {
+    width: 984px;
+    height: 282px;
+    background: rgba(255, 255, 255, 1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    overflow: hidden;
+}
+
+.v242_368 {
+    width: 250px;
+    color: rgba(137, 5, 137, 1);
+    position: absolute;
+    top: 181px;
+    left: 722px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 36px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v242_369 {
+    width: 199px;
+    color: rgba(0, 0, 0, 0.49000000953674316);
+    position: absolute;
+    top: 215px;
+    left: 722px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 14px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v242_370 {
+    width: 106px;
+    color: rgba(0, 0, 0, 1);
+    position: absolute;
+    top: 161px;
+    left: 722px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 14px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v242_371 {
+    width: 438px;
+    height: 138px;
+    background: url("../images/v242_371.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 36px;
+    left: 236px;
+    overflow: hidden;
+}
+
+.v242_372 {
+    width: 193px;
+    color: rgba(0, 0, 0, 0.5);
+    position: absolute;
+    top: 85px;
+    left: 0px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 18px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v242_373 {
+    width: 438px;
+    color: rgba(0, 0, 0, 1);
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 36px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v242_374 {
+    width: 219px;
+    color: rgba(0, 0, 0, 1);
+    position: absolute;
+    top: 114px;
+    left: 0px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 18px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v242_375 {
+    width: 156px;
+    height: 32px;
+    background: url("../images/v242_375.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 53px;
+    left: 0px;
+    overflow: hidden;
+}
+
+.v242_376 {
+    width: 32px;
+    height: 32px;
+    background: rgba(255, 255, 255, 1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 124px;
+    overflow: hidden;
+}
+
+.v242_377 {
+    width: 30px;
+    height: 29px;
+    background: rgba(255, 206, 49, 1);
+    opacity: 1;
+    position: absolute;
+    top: 1px;
+    left: 1px;
+}
+
+.v242_378 {
+    width: 32px;
+    height: 32px;
+    background: rgba(255, 255, 255, 1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 93px;
+    overflow: hidden;
+}
+
+.v242_379 {
+    width: 30px;
+    height: 29px;
+    background: rgba(255, 206, 49, 1);
+    opacity: 1;
+    position: absolute;
+    top: 1px;
+    left: 1px;
+}
+
+.v242_380 {
+    width: 32px;
+    height: 32px;
+    background: rgba(255, 255, 255, 1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 63px;
+    overflow: hidden;
+}
+
+.v242_381 {
+    width: 30px;
+    height: 29px;
+    background: rgba(255, 206, 49, 1);
+    opacity: 1;
+    position: absolute;
+    top: 1px;
+    left: 1px;
+}
+
+.v242_382 {
+    width: 32px;
+    height: 32px;
+    background: rgba(255, 255, 255, 1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 32px;
+    overflow: hidden;
+}
+
+.v242_383 {
+    width: 30px;
+    height: 29px;
+    background: rgba(255, 206, 49, 1);
+    opacity: 1;
+    position: absolute;
+    top: 1px;
+    left: 1px;
+}
+
+.v242_384 {
+    width: 32px;
+    height: 32px;
+    background: rgba(255, 255, 255, 1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+}
+
+.v242_385 {
+    width: 30px;
+    height: 29px;
+    background: rgba(255, 206, 49, 1);
+    opacity: 1;
+    position: absolute;
+    top: 1px;
+    left: 1px;
+}
+
+.v242_386 {
+    width: 220px;
+    height: 282px;
+    background: rgba(196, 196, 196, 0);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    overflow: hidden;
+}
+
+.v242_387 {
+    width: 220px;
+    height: 282px;
+    background: url("Hotel/shakti hotel.jpeg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    overflow: hidden;
+}
+
+
+/*=============================================SHAKTI HOTEL=============*/
+
+
+/*=============================================JAYAKARTA================*/
+
+.v199_588 {
+    width: 984px;
+    height: 282px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 3120px;
+    left: 10px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.25);
+    overflow: hidden;
+}
+
+.v199_589 {
+    width: 984px;
+    height: 282px;
+    background: rgba(255, 255, 255, 1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    overflow: hidden;
+}
+
+.v199_590 {
+    width: 250px;
+    color: rgba(137, 5, 137, 1);
+    position: absolute;
+    top: 181px;
+    left: 722px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 36px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v199_587 {
+    width: 199px;
+    color: rgba(0, 0, 0, 0.49000000953674316);
+    position: absolute;
+    top: 215px;
+    left: 722px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 14px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v201_846 {
+    width: 106px;
+    color: rgba(0, 0, 0, 1);
+    position: absolute;
+    top: 161px;
+    left: 722px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 14px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v199_591 {
+    width: 586px;
+    height: 138px;
+    background: url("../images/v199_591.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 36px;
+    left: 236px;
+    overflow: hidden;
+}
+
+.v199_592 {
+    width: 193px;
+    color: rgba(0, 0, 0, 0.5);
+    position: absolute;
+    top: 85px;
+    left: 0px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 18px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v199_593 {
+    width: 586px;
+    color: rgba(0, 0, 0, 1);
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 36px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v199_594 {
+    width: 219px;
+    color: rgba(0, 0, 0, 1);
+    position: absolute;
+    top: 114px;
+    left: 0px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 18px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v199_595 {
+    width: 125px;
+    height: 32px;
+    background: url("../images/v199_595.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 53px;
+    left: 0px;
+    overflow: hidden;
+}
+
+.v199_598 {
+    width: 32px;
+    height: 32px;
+    background: rgba(255, 255, 255, 1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 93px;
+    overflow: hidden;
+}
+
+.v199_599 {
+    width: 30px;
+    height: 29px;
+    background: rgba(255, 206, 49, 1);
+    opacity: 1;
+    position: absolute;
+    top: 1px;
+    left: 1px;
+}
+
+.v199_600 {
+    width: 32px;
+    height: 32px;
+    background: rgba(255, 255, 255, 1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 63px;
+    overflow: hidden;
+}
+
+.v199_601 {
+    width: 30px;
+    height: 29px;
+    background: rgba(255, 206, 49, 1);
+    opacity: 1;
+    position: absolute;
+    top: 1px;
+    left: 1px;
+}
+
+.v199_602 {
+    width: 32px;
+    height: 32px;
+    background: rgba(255, 255, 255, 1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 32px;
+    overflow: hidden;
+}
+
+.v199_603 {
+    width: 30px;
+    height: 29px;
+    background: rgba(255, 206, 49, 1);
+    opacity: 1;
+    position: absolute;
+    top: 1px;
+    left: 1px;
+}
+
+.v199_604 {
+    width: 32px;
+    height: 32px;
+    background: rgba(255, 255, 255, 1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+}
+
+.v199_605 {
+    width: 30px;
+    height: 29px;
+    background: rgba(255, 206, 49, 1);
+    opacity: 1;
+    position: absolute;
+    top: 1px;
+    left: 1px;
+}
+
+.v199_606 {
+    width: 220px;
+    height: 282px;
+    background: rgba(196, 196, 196, 0);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    overflow: hidden;
+}
+
+.v242_454 {
+    width: 220px;
+    height: 282px;
+    background: url("Hotel/jayakarta hotel.jpeg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    overflow: hidden;
+}
+
+
+/*=============================================JAYAKARTA================*/
+
+
+/*=============================================PAVILJOEN================*/
+
+.v242_410 {
+    width: 984px;
+    height: 288px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 3431px;
+    left: 10px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.25);
+    overflow: hidden;
+}
+
+.v242_411 {
+    width: 984px;
+    height: 282px;
+    background: rgba(255, 255, 255, 1);
+    opacity: 1;
+    position: absolute;
+    top: 6px;
+    left: 0px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    overflow: hidden;
+}
+
+.v242_412 {
+    width: 250px;
+    color: rgba(137, 5, 137, 1);
+    position: absolute;
+    top: 187px;
+    left: 722px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 36px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v242_413 {
+    width: 199px;
+    color: rgba(0, 0, 0, 0.49000000953674316);
+    position: absolute;
+    top: 221px;
+    left: 722px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 14px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v242_414 {
+    width: 106px;
+    color: rgba(0, 0, 0, 1);
+    position: absolute;
+    top: 167px;
+    left: 722px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 14px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v242_415 {
+    width: 438px;
+    height: 138px;
+    background: url("../images/v242_415.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 42px;
+    left: 236px;
+    overflow: hidden;
+}
+
+.v242_416 {
+    width: 193px;
+    color: rgba(0, 0, 0, 0.5);
+    position: absolute;
+    top: 85px;
+    left: 0px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 18px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v242_417 {
+    width: 438px;
+    color: rgba(0, 0, 0, 1);
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 36px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v242_418 {
+    width: 219px;
+    color: rgba(0, 0, 0, 1);
+    position: absolute;
+    top: 114px;
+    left: 0px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 18px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v242_419 {
+    width: 156px;
+    height: 32px;
+    background: url("../images/v242_419.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 53px;
+    left: 0px;
+    overflow: hidden;
+}
+
+.v242_420 {
+    width: 32px;
+    height: 32px;
+    background: rgba(255, 255, 255, 1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 124px;
+    overflow: hidden;
+}
+
+.v242_421 {
+    width: 30px;
+    height: 29px;
+    background: rgba(255, 206, 49, 1);
+    opacity: 1;
+    position: absolute;
+    top: 1px;
+    left: 1px;
+}
+
+.v242_422 {
+    width: 32px;
+    height: 32px;
+    background: rgba(255, 255, 255, 1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 93px;
+    overflow: hidden;
+}
+
+.v242_423 {
+    width: 30px;
+    height: 29px;
+    background: rgba(255, 206, 49, 1);
+    opacity: 1;
+    position: absolute;
+    top: 1px;
+    left: 1px;
+}
+
+.v242_424 {
+    width: 32px;
+    height: 32px;
+    background: rgba(255, 255, 255, 1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 63px;
+    overflow: hidden;
+}
+
+.v242_425 {
+    width: 30px;
+    height: 29px;
+    background: rgba(255, 206, 49, 1);
+    opacity: 1;
+    position: absolute;
+    top: 1px;
+    left: 1px;
+}
+
+.v242_426 {
+    width: 32px;
+    height: 32px;
+    background: rgba(255, 255, 255, 1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 32px;
+    overflow: hidden;
+}
+
+.v242_427 {
+    width: 30px;
+    height: 29px;
+    background: rgba(255, 206, 49, 1);
+    opacity: 1;
+    position: absolute;
+    top: 1px;
+    left: 1px;
+}
+
+.v242_428 {
+    width: 32px;
+    height: 32px;
+    background: rgba(255, 255, 255, 1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+}
+
+.v242_429 {
+    width: 30px;
+    height: 29px;
+    background: rgba(255, 206, 49, 1);
+    opacity: 1;
+    position: absolute;
+    top: 1px;
+    left: 1px;
+}
+
+.v242_430 {
+    width: 220px;
+    height: 282px;
+    background: rgba(196, 196, 196, 0);
+    opacity: 1;
+    position: absolute;
+    top: 6px;
+    left: 0px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    overflow: hidden;
+}
+
+.v242_456 {
+    width: 220px;
+    height: 288px;
+    background: url("Hotel/paviljoen hotel.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    overflow: hidden;
+}
+
+
+/*=============================================PAVILJOEN================*/
+
+
+/*=============================================V HOTEL==================*/
+
+.v242_432 {
+    width: 984px;
+    height: 282px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 3742px;
+    left: 10px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.25);
+    overflow: hidden;
+}
+
+.v242_433 {
+    width: 984px;
+    height: 282px;
+    background: rgba(255, 255, 255, 1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    overflow: hidden;
+}
+
+.v242_434 {
+    width: 250px;
+    color: rgba(137, 5, 137, 1);
+    position: absolute;
+    top: 181px;
+    left: 722px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 36px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v242_435 {
+    width: 199px;
+    color: rgba(0, 0, 0, 0.49000000953674316);
+    position: absolute;
+    top: 215px;
+    left: 722px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 14px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v242_436 {
+    width: 106px;
+    color: rgba(0, 0, 0, 1);
+    position: absolute;
+    top: 161px;
+    left: 722px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 14px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v242_437 {
+    width: 438px;
+    height: 138px;
+    background: url("../images/v242_437.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 36px;
+    left: 236px;
+    overflow: hidden;
+}
+
+.v242_438 {
+    width: 193px;
+    color: rgba(0, 0, 0, 0.5);
+    position: absolute;
+    top: 85px;
+    left: 0px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 18px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v242_439 {
+    width: 438px;
+    color: rgba(0, 0, 0, 1);
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 36px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v242_440 {
+    width: 219px;
+    color: rgba(0, 0, 0, 1);
+    position: absolute;
+    top: 114px;
+    left: 0px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 18px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v242_441 {
+    width: 95px;
+    height: 32px;
+    background: url("../images/v242_441.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 53px;
+    left: 0px;
+    overflow: hidden;
+}
+
+.v242_446 {
+    width: 32px;
+    height: 32px;
+    background: rgba(255, 255, 255, 1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 63px;
+    overflow: hidden;
+}
+
+.v242_447 {
+    width: 30px;
+    height: 29px;
+    background: rgba(255, 206, 49, 1);
+    opacity: 1;
+    position: absolute;
+    top: 1px;
+    left: 1px;
+}
+
+.v242_448 {
+    width: 32px;
+    height: 32px;
+    background: rgba(255, 255, 255, 1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 32px;
+    overflow: hidden;
+}
+
+.v242_449 {
+    width: 30px;
+    height: 29px;
+    background: rgba(255, 206, 49, 1);
+    opacity: 1;
+    position: absolute;
+    top: 1px;
+    left: 1px;
+}
+
+.v242_450 {
+    width: 32px;
+    height: 32px;
+    background: rgba(255, 255, 255, 1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+}
+
+.v242_451 {
+    width: 30px;
+    height: 29px;
+    background: rgba(255, 206, 49, 1);
+    opacity: 1;
+    position: absolute;
+    top: 1px;
+    left: 1px;
+}
+
+.v242_452 {
+    width: 220px;
+    height: 282px;
+    background: rgba(196, 196, 196, 0);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    overflow: hidden;
+}
+
+.v242_457 {
+    width: 220px;
+    height: 282px;
+    background: url("Hotel/V hotel & residence.jpeg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    overflow: hidden;
+}
+
+
+/*=============================================V HOTEL==================*/
+
+
+/*=============================================CJOKRO HOTEL=============*/
+
+.v242_460 {
+    width: 984px;
+    height: 282px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 4053px;
+    left: 10px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.25);
+    overflow: hidden;
+}
+
+.v242_461 {
+    width: 984px;
+    height: 282px;
+    background: rgba(255, 255, 255, 1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    overflow: hidden;
+}
+
+.v242_462 {
+    width: 250px;
+    color: rgba(137, 5, 137, 1);
+    position: absolute;
+    top: 181px;
+    left: 722px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 36px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v242_463 {
+    width: 199px;
+    color: rgba(0, 0, 0, 0.49000000953674316);
+    position: absolute;
+    top: 215px;
+    left: 722px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 14px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v242_464 {
+    width: 106px;
+    color: rgba(0, 0, 0, 1);
+    position: absolute;
+    top: 161px;
+    left: 722px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 14px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v242_465 {
+    width: 622px;
+    height: 138px;
+    background: url("../images/v242_465.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 36px;
+    left: 236px;
+    overflow: hidden;
+}
+
+.v242_466 {
+    width: 193px;
+    color: rgba(0, 0, 0, 0.5);
+    position: absolute;
+    top: 85px;
+    left: 0px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 18px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v242_467 {
+    width: 622px;
+    color: rgba(0, 0, 0, 1);
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 36px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v242_468 {
+    width: 219px;
+    color: rgba(0, 0, 0, 1);
+    position: absolute;
+    top: 114px;
+    left: 0px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 18px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v242_469 {
+    width: 125px;
+    height: 32px;
+    background: url("../images/v242_469.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 53px;
+    left: 0px;
+    overflow: hidden;
+}
+
+.v242_470 {
+    width: 32px;
+    height: 32px;
+    background: rgba(255, 255, 255, 1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 93px;
+    overflow: hidden;
+}
+
+.v242_471 {
+    width: 30px;
+    height: 29px;
+    background: rgba(255, 206, 49, 1);
+    opacity: 1;
+    position: absolute;
+    top: 1px;
+    left: 1px;
+}
+
+.v242_472 {
+    width: 32px;
+    height: 32px;
+    background: rgba(255, 255, 255, 1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 63px;
+    overflow: hidden;
+}
+
+.v242_473 {
+    width: 30px;
+    height: 29px;
+    background: rgba(255, 206, 49, 1);
+    opacity: 1;
+    position: absolute;
+    top: 1px;
+    left: 1px;
+}
+
+.v242_474 {
+    width: 32px;
+    height: 32px;
+    background: rgba(255, 255, 255, 1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 32px;
+    overflow: hidden;
+}
+
+.v242_475 {
+    width: 30px;
+    height: 29px;
+    background: rgba(255, 206, 49, 1);
+    opacity: 1;
+    position: absolute;
+    top: 1px;
+    left: 1px;
+}
+
+.v242_476 {
+    width: 32px;
+    height: 32px;
+    background: rgba(255, 255, 255, 1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+}
+
+.v242_477 {
+    width: 30px;
+    height: 29px;
+    background: rgba(255, 206, 49, 1);
+    opacity: 1;
+    position: absolute;
+    top: 1px;
+    left: 1px;
+}
+
+.v242_478 {
+    width: 220px;
+    height: 282px;
+    background: rgba(196, 196, 196, 0);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    overflow: hidden;
+}
+
+.v242_479 {
+    width: 220px;
+    height: 282px;
+    background: url("Hotel/grand tjokro hotel.jpeg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    overflow: hidden;
+}
+
+
+/*=============================================CJOKRO HOTEL=============*/
+
+
+/*=============================================JANEVALLA HOTEL==========*/
+
+.v242_388 {
+    width: 984px;
+    height: 282px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 4364px;
+    left: 10px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.25);
+    overflow: hidden;
+}
+
+.v242_389 {
+    width: 984px;
+    height: 282px;
+    background: rgba(255, 255, 255, 1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    overflow: hidden;
+}
+
+.v242_390 {
+    width: 250px;
+    color: rgba(137, 5, 137, 1);
+    position: absolute;
+    top: 181px;
+    left: 722px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 36px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v242_391 {
+    width: 199px;
+    color: rgba(0, 0, 0, 0.49000000953674316);
+    position: absolute;
+    top: 215px;
+    left: 722px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 14px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v242_392 {
+    width: 106px;
+    color: rgba(0, 0, 0, 1);
+    position: absolute;
+    top: 161px;
+    left: 722px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 14px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v242_393 {
+    width: 622px;
+    height: 138px;
+    background: url("../images/v242_393.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 36px;
+    left: 236px;
+    overflow: hidden;
+}
+
+.v242_394 {
+    width: 193px;
+    color: rgba(0, 0, 0, 0.5);
+    position: absolute;
+    top: 85px;
+    left: 0px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 18px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v242_395 {
+    width: 622px;
+    color: rgba(0, 0, 0, 1);
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 36px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v242_396 {
+    width: 219px;
+    color: rgba(0, 0, 0, 1);
+    position: absolute;
+    top: 114px;
+    left: 0px;
+    font-family: Montserrat;
+    font-weight: Regular;
+    font-size: 18px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v242_397 {
+    width: 125px;
+    height: 32px;
+    background: url("../images/v242_397.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 53px;
+    left: 0px;
+    overflow: hidden;
+}
+
+.v242_400 {
+    width: 32px;
+    height: 32px;
+    background: rgba(255, 255, 255, 1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 93px;
+    overflow: hidden;
+}
+
+.v242_401 {
+    width: 30px;
+    height: 29px;
+    background: rgba(255, 206, 49, 1);
+    opacity: 1;
+    position: absolute;
+    top: 1px;
+    left: 1px;
+}
+
+.v242_402 {
+    width: 32px;
+    height: 32px;
+    background: rgba(255, 255, 255, 1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 63px;
+    overflow: hidden;
+}
+
+.v242_403 {
+    width: 30px;
+    height: 29px;
+    background: rgba(255, 206, 49, 1);
+    opacity: 1;
+    position: absolute;
+    top: 1px;
+    left: 1px;
+}
+
+.v242_404 {
+    width: 32px;
+    height: 32px;
+    background: rgba(255, 255, 255, 1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 32px;
+    overflow: hidden;
+}
+
+.v242_405 {
+    width: 30px;
+    height: 29px;
+    background: rgba(255, 206, 49, 1);
+    opacity: 1;
+    position: absolute;
+    top: 1px;
+    left: 1px;
+}
+
+.v242_406 {
+    width: 32px;
+    height: 32px;
+    background: rgba(255, 255, 255, 1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+}
+
+.v242_407 {
+    width: 30px;
+    height: 29px;
+    background: rgba(255, 206, 49, 1);
+    opacity: 1;
+    position: absolute;
+    top: 1px;
+    left: 1px;
+}
+
+.v242_408 {
+    width: 220px;
+    height: 282px;
+    background: rgba(196, 196, 196, 0);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    overflow: hidden;
+}
+
+.v242_480 {
+    width: 220px;
+    height: 282px;
+    background: url("Hotel/janvalla.jpeg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    overflow: hidden;
+}
+
+
+/*=============================================JANEVALLA HOTEL==========*/
